@@ -1,0 +1,82 @@
+{
+    "control":{
+        "bentobarite":{
+            "T0":["/hyperspectral/T0/0_control_l_20181219_134547_1.h5", "/hyperspectral/T0/0_control_r_20181219_151654_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/0_Control_w3_l_20190117_144409_1.h5", "/hyperspectral/T0.5/0_Control_w3_r_20190117_144626_1.h5"],
+            "T1":["/hyperspectral/T1/0_control_l_2_20190201_075625_1.h5", "/hyperspectral/T1/0_control_r_20190201_075840_1.h5"],
+            "T2":["/hyperspectral/T2/0_control_w9_l_20190228_105425_1.h5", "/hyperspectral/T2/0_control_w9_r_20190228_105655_1.h5"]
+        },
+        "drill_cutting":{
+            "T0":["/home/web/ecotone/Radiance_A0_w27_baseline_left_20180705_114051_1_1.h5","/home/web/ecotone/Radiance_A0_w27_baseline_right_20180705_114513_1_1.h5"],
+            "T0.5":["/home/web/ecotone/Radiance_A0_w29_left_20180718_095604_1_1.h5","/home/web/ecotone/Radiance_A0_w29_right_20180718_095903_1_1.h5"],
+            "T1":["/home/web/ecotone/Radiance_A0_w31_left_20180801_080208_1_1.h5","/home/web/ecotone/Radiance_A0_w31_right_20180801_075927_1_1.h5"],
+            "T2":["/home/web/ecotone/Radiance_A0_w34_left_20180822_065028_1_1.h5","/home/web/ecotone/Radiance_A0_w34_right_20180822_064551_1_1.h5"]
+        }
+    },
+    "bento":{
+        "30":{
+            "T0":["/hyperspectral/T0/30_bento_l_20181221_105457_1.h5", "/hyperspectral/T0/30_bento_r_20181221_105748_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/30_Bento_w3_l_20190117_143658_1.h5", "/hyperspectral/T0.5/30_Bento_w3_r_20190117_143913_1.h5"],
+            "T1":["/hyperspectral/T1/30_bento_l_20190201_074641_1.h5", "/hyperspectral/T1/30_bento_r_20190201_074902_1.h5"],
+            "T2":["/hyperspectral/T2/30_bento_w9_l_20190228_104711_1.h5", "/hyperspectral/T2/30_bento_w9_r_20190228_104927_1.h5"]
+        },
+        "50":{
+            "T0":["/hyperspectral/T0/50_bento_l_20181221_103626_1.h5", "/hyperspectral/T0/50_bento_r_20181221_104118_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/50_Bento_w3_l_20190117_142416_1.h5", "/hyperspectral/T0.5/50_Bento_w3_r_20190117_142633_1.h5"],
+            "T1":["/hyperspectral/T1/50_bento_l_20190201_073338_1.h5", "/hyperspectral/T1/50_bento_r_20190201_073628_1.h5"],
+            "T2":["/hyperspectral/T2/50_bento_w9_l_20190228_103344_1.h5", "/hyperspectral/T2/50_bento_w9_r_20190228_103600_1.h5"]
+        },
+        "100":{
+            "T0":["/hyperspectral/T0/100_bento_l_20181221_100947_1.h5", "/hyperspectral/T0/100_bento_r_20181221_101450_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/100_Bento_w3_l_20190118_133435_1.h5", "/hyperspectral/T0.5/100_Bento_w3_r_20190118_133700_1.h5"],
+            "T1":["/hyperspectral/T1/100_bento_l_20190201_072038_1.h5", "/hyperspectral/T1/100_bento_r_20190201_072256_1.h5"],
+            "T2":["/hyperspectral/T2/100_bento_w9_l_20190228_102016_1.h5", "/hyperspectral/T2/100_bento_w9_r_20190228_102252_1.h5"]
+        }
+    },
+    "barite":{
+        "30":{
+            "T0":["/hyperspectral/T0/30_barite_l_20181221_104605_1.h5", "/hyperspectral/T0/30_barite_r_20181221_104956_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/30_Barite_w3_l_20190117_143016_1.h5", "/hyperspectral/T0.5/30_Barite_w3_r_20190117_143231_1.h5"],
+            "T1":["/hyperspectral/T1/30_barite_l_20190201_074000_1.h5", "/hyperspectral/T1/30_barite_r_20190201_074226_1.h5"],
+            "T2":["/hyperspectral/T2/30_barite_w9_l_20190228_104048_1.h5", "/hyperspectral/T2/30_barite_w9_r_20190228_104307_1.h5"]
+        },
+        "50":{
+            "T0":["/hyperspectral/T0/50_barite_l_20181221_102349_1.h5", "/hyperspectral/T0/50_barite_r_20181221_103055_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/50_Barite_w3_l_20190117_141837_1.h5", "/hyperspectral/T0.5/50_Barite_w3_r_20190117_142054_1.h5"],
+            "T1":["/hyperspectral/T1/50_barite_l_20190201_072749_1.h5", "/hyperspectral/T1/50_barite_r_20190201_073013_1.h5"],
+            "T2":["/hyperspectral/T2/50_barite_w9_l_20190228_102705_1.h5", "/hyperspectral/T2/50_barite_w9_r_20190228_102923_1.h5"]
+        },
+        "100":{
+            "T0":["/hyperspectral/T0/100_barite_l_20181219_152628_1.h5", "/hyperspectral/T0/100_barite_r_20181219_154042_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/100_Barite_w3_l_20190118_132554_1.h5", "/hyperspectral/T0.5/100_Barite_w3_r_20190117_145149_1.h5"],
+            "T1":["/hyperspectral/T1/100_barite_l_20190201_080150_1.h5", "/hyperspectral/T1/100_barite_r_20190201_080405_1.h5"],
+            "T2":["/hyperspectral/T2/100_barite_w9_l_20190228_110047_1.h5", "/hyperspectral/T2/100_barite_w9_r_20190228_110313_1.h5"]
+        }
+    },
+    "drill_cutting":{
+        "10":{
+            "T0":["/hyperspectral/T0/Radiance_A10_w27_baseline_left_20180706_111316_1_1.h5", "/hyperspectral/T0/Radiance_A10_w27_baseline_right_20180706_111659_1_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/Radiance_A10_w31_left_20180801_083028_1_1.h5", "/hyperspectral/T0.5/Radiance_A10_w31_right_20180801_082523_1_1.h5"],
+            "T1":["/hyperspectral/T1/Radiance_A10_w29_left_20180718_084543_1_1.h5", "/hyperspectral/T1/Radiance_A10_w29_right_20180718_085311_1_1.h5"],
+            "T2":["/hyperspectral/T2/Radiance_A10_w34_left_20180822_071636_1_1.h5", "/hyperspectral/T2/Radiance_A10_w34_right_20180822_071953_combined.h5"]
+        },
+        "30":{
+            "T0":["/hyperspectral/T0/A30_w27_baseline_left_20180706_105437_1.h5", "/hyperspectral/T0/A30_w27_baseline_right_20180705_122527_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/A30_w29_left_20180718_091221_1.h5", "/hyperspectral/T0.5/A30_w29_right_20180718_091924_1.h5"],
+            "T1":["/hyperspectral/T1/A30_w31_left_20180801_082000_1.h5", "/hyperspectral/T1/A30_w31_right_20180801_081710_1.h5"],
+            "T2":["/hyperspectral/T2/A30_w34_left_20180822_071127_1.h5", "/hyperspectral/T2/A30_w34_right_20180822_070759_1.h5"]
+        },
+        "50":{
+            "T0":["/hyperspectral/T0/A50_w27_baseline_left_20180705_124449_1.h5", "/hyperspectral/T0/A50_w27_baseline_right_20180705_125213_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/A50_w29_left_20180718_092633_1.h5", "/hyperspectral/T0.5/A50_w29_right_20180718_093151_1.h5"],
+            "T1":["/hyperspectral/T1/A50_w31_left_20180801_081349_1.h5", "/hyperspectral/T1/A50_w31_right_20180801_081118_1.h5"],
+            "T2":["/hyperspectral/T2/A50_w34_left_20180822_070408_1.h5", "/hyperspectral/T2/A50_w34_right_20180822_070133_1.h5"]
+        },
+        "100":{
+            "T0":["/hyperspectral/T0/A100_w27_baseline_left_20180705_113418_1.h5", "/hyperspectral/T0/A100_w27_baseline_right_20180705_112849_1.h5"],
+            "T0.5":["/hyperspectral/T0.5/A100_w29_left_20180718_093920_1.h5", "/hyperspectral/T0.5/A100_w29_right_20180718_094329_1.h5"],
+            "T1":["/hyperspectral/T1/A100_w31_left_20180801_080756_1.h5", "/hyperspectral/T1/A100_w31_right_20180801_080519_1.h5"],
+            "T2":["/hyperspectral/T2/A100_w34_left_20180822_065705_1.h5", "/hyperspectral/T2/A100_w34_right_20180822_065333_1.h5"]
+        }
+    }
+}
