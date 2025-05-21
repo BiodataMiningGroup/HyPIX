@@ -1,3 +1,5 @@
+Moved here: https://gitlab.ub.uni-bielefeld.de/biodtmin/HyPIX
+
 # HyPIX
 Tool for exploring time series of hyperspectral images for cold water coral stress response analysis
 
